@@ -1,0 +1,6 @@
+com\posgames\spotwars\HelloController.class
+com\posgames\spotwars\App.class
+module-info.class
+com\posgames\spotwars\gameclient\GameClient.class
+com\posgames\spotwars\HelloApplication.class
+com\posgames\spotwars\LandingPageController.class
